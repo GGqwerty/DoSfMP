@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Mobile App Using Firebase"
+rootProject.name = "Picture Store"
 include(":app")

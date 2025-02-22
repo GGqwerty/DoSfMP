@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splach_title_text_size">50sp</dimen>
+    <dimen name="header_height">200dp</dimen>
+    <dimen name="auth_title_size">40sp</dimen>
+    <dimen name="auth_text_input_size">20sp</dimen>
+    <dimen name="auth_text_input_padding">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
